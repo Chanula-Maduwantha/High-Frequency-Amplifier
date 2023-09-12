@@ -1,0 +1,25 @@
+Circuit: * C:\Users\Admin\Desktop\EN2091_high frequency amplifier\final simulation\Draft1.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Dec 26 11:33:55 2022
+Total elapsed time: 0.282 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 34183
+traniter = 34176
+tranpoints = 12011
+accept = 7216
+rejected = 4795
+matrix size = 26
+fillins = 2
+solver = Normal
+Matrix Compiler1: 1.80 KB object code size  1.2/0.7/[0.6]
+Matrix Compiler2: 2.15 KB object code size  0.7/1.0/[0.6]
+

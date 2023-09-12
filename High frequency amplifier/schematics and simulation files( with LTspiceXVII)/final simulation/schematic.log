@@ -1,0 +1,6 @@
+Circuit: * G:\New folder\Desktop\EN2091_high frequency amplifier\final simulation\schematic.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
